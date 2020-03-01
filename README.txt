@@ -11,4 +11,3 @@ LOGINSYSTEM
 4. To make a user an admin, you have to manually change the 'is_admin' in the database to '1'. Admin users have the ability to email users that have the 'receive_mail' in the database set to '1'.
 
 5. Profile images are dependent on the 'php.ini' file. The image size must be less than the 'upload_max_filesize' in the 'php.ini' file.
-
